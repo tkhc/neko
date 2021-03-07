@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Neko - TKHC Cats Gallery`,
   },
   plugins: [
     {
@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: `2315642426`,
+        username: `7013409`,
       },
     },
     `gatsby-plugin-sitemap`,

@@ -12,9 +12,9 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
+          { name: `About`, slug: `/about` },
           { name: `Cattery`, slug: `/projects` },
           { name: `Instagram`, slug: `/instagram` },
-          { name: `About`, slug: `/about` },
         ],
       },
     },

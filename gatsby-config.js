@@ -35,7 +35,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Neko - TKHC Cattery`,
-        short_name: `Neko`,
+        short_name: `tkhc`,
         description: `A cats gallery.`,
         start_url: `/`,
         background_color: `#ffffff`,

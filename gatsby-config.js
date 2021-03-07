@@ -4,6 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    title: `Neko`,
     siteTitleAlt: `Neko - TKHC Cattery`,
   },
   plugins: [
@@ -34,8 +35,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Neko - TKHC Cattery`,
-        short_name: `tkhc`,
+        name: `neko - tkhc cattery`,
+        short_name: `neko`,
         description: `A cats gallery.`,
         start_url: `/`,
         background_color: `#ffffff`,

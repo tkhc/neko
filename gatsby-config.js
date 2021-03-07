@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: `7013409`,
+        username: `1937607226`,
       },
     },
     `gatsby-plugin-sitemap`,

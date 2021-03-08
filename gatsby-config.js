@@ -35,9 +35,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `neko - tkhc cattery`,
-        short_name: `neko`,
-        description: `A cats gallery.`,
+        name: `jodie - @lekoarts/gatsby-theme-jodie`,
+        short_name: `jodie`,
+        description: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#b75e09`,
